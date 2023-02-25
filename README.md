@@ -4,8 +4,7 @@
 
 ### -	What new design skills has your work on the project helped you to craft? 
 
-####    
-  My work on this project helped to emphasize the advantages of writing modular and well-organized code. I was able to practice implementing modularized functions to help reduce redundant code.
+####    My work on this project helped to emphasize the advantages of writing modular and well-organized code. I was able to practice implementing modularized functions to help reduce redundant code.
   
 ### -	What design process did you follow for your project work?
   
